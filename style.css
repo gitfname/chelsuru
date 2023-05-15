@@ -1,0 +1,26 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+    --primary-color: #1dbf73;
+    --primary-color-darken-1: #20ab6a;
+    --primary-color-darken-2: #219f64;
+}
+
+@font-face {
+    font-family: Lexend;
+    src: url("/fonts/Lexend/Lexend-VariableFont_wght.ttf");
+}
+
+@font-face {
+    font-family: Raleway;
+    src: url("/fonts/Raleway/Raleway-VariableFont_wght.ttf");
+}
+
+@font-face {
+    font-family: RalewayItalic;
+    src: url("/fonts/Raleway/Raleway-Italic-VariableFont_wght.ttf");
+}
+
+
